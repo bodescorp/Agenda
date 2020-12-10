@@ -1,4 +1,4 @@
-const connectionKnex = require('../database/connectionKnex');
+const connection = require('../database/connectionFire');
 
 module.exports = {
 
